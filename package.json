@@ -1,0 +1,22 @@
+{
+  "name": "algos-in-js",
+  "version": "1.0.0",
+  "description": "implementing algos in javascript one at a time",
+  "main": "gcd.js",
+  "scripts": {
+    "test": "gcd.test.js"
+  },
+  "keywords": [
+    "gcd",
+    "algorithms"
+  ],
+  "author": "Sandeep Kumar <rails4sandeep@gmail.com>",
+  "license": "MIT License",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rails4sandeep/snuze.git"
+  }
+}
